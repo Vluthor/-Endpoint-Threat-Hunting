@@ -56,6 +56,7 @@ Then added:
 - Looked for flags like `-u`, `-p`, `-s`, and any sign of target systems like `\dc01`
 
 This helped me trace if credentials were passed and where access was attempted.
+![image](https://github.com/user-attachments/assets/518df23c-5246-4e59-9a36-f3db89b9de05)
 
 ---
 
@@ -94,11 +95,3 @@ This hunt sharpened my ability to:
 
 Even without malware, the logs told a story.
 
----
-
-⚠️ **Note:**  
-This write-up outlines only the process and logic behind my threat hunting. All exact matches, IPs, credentials, and final answers have been intentionally left out, in line with the lab’s rules.
-
----
-
-Stay dangerous. Stay observant.
