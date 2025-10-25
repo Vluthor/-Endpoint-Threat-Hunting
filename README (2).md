@@ -1,6 +1,4 @@
 # **Endpoint Threat Hunting Report**  
-**Analyst:** Richard Lew  
-**Date:** [Insert Date]  
 **Platform:** Elastic (Kibana)  
 **Focus:** Detecting Persistence, Lateral Movement, and Credential Access  
 
